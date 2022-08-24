@@ -1,0 +1,34 @@
+html{
+    line-height: 1.2;
+}
+
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li {
+    padding: 0;
+    margin: 0;
+}
+
+ul,
+li,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+img {
+    /*// 垂直对齐一幅图像*/
+    /*vertical-align: top;*/
+    vertical-align: text-top;
+}
